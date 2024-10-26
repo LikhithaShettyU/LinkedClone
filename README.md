@@ -17,4 +17,4 @@ This project built with React, Redux, and Firebase, simulating core features lik
 - **State Management**: Redux
 
 ## Demo
-![Demo](src/linked.png)
+![Demo](linked.png)
