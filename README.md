@@ -1,6 +1,6 @@
 # LinkedIn Clone
 
-This project is a LinkedIn clone built with React, Redux, and Firebase, simulating core LinkedIn features like user login, posting, and a real-time feed. The app uses Firebase for backend functionality, including authentication and Firestore for data storage.
+This project built with React, Redux, and Firebase, simulating core features like user login, posting, and a real-time feed. The app uses Firebase for backend functionality, including authentication and Firestore for data storage.
 
 ## Features
 
